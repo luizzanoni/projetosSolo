@@ -1,0 +1,15 @@
+C:\Users\luizz\Desktop\github\projetosSolo\projetoUm\bin\Debug\net7.0\projetoUm.exe
+C:\Users\luizz\Desktop\github\projetosSolo\projetoUm\bin\Debug\net7.0\projetoUm.deps.json
+C:\Users\luizz\Desktop\github\projetosSolo\projetoUm\bin\Debug\net7.0\projetoUm.runtimeconfig.json
+C:\Users\luizz\Desktop\github\projetosSolo\projetoUm\bin\Debug\net7.0\projetoUm.dll
+C:\Users\luizz\Desktop\github\projetosSolo\projetoUm\bin\Debug\net7.0\projetoUm.pdb
+C:\Users\luizz\Desktop\github\projetosSolo\projetoUm\obj\Debug\net7.0\projetoUm.csproj.AssemblyReference.cache
+C:\Users\luizz\Desktop\github\projetosSolo\projetoUm\obj\Debug\net7.0\projetoUm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizz\Desktop\github\projetosSolo\projetoUm\obj\Debug\net7.0\projetoUm.AssemblyInfoInputs.cache
+C:\Users\luizz\Desktop\github\projetosSolo\projetoUm\obj\Debug\net7.0\projetoUm.AssemblyInfo.cs
+C:\Users\luizz\Desktop\github\projetosSolo\projetoUm\obj\Debug\net7.0\projetoUm.csproj.CoreCompileInputs.cache
+C:\Users\luizz\Desktop\github\projetosSolo\projetoUm\obj\Debug\net7.0\projetoUm.dll
+C:\Users\luizz\Desktop\github\projetosSolo\projetoUm\obj\Debug\net7.0\refint\projetoUm.dll
+C:\Users\luizz\Desktop\github\projetosSolo\projetoUm\obj\Debug\net7.0\projetoUm.pdb
+C:\Users\luizz\Desktop\github\projetosSolo\projetoUm\obj\Debug\net7.0\projetoUm.genruntimeconfig.cache
+C:\Users\luizz\Desktop\github\projetosSolo\projetoUm\obj\Debug\net7.0\ref\projetoUm.dll
