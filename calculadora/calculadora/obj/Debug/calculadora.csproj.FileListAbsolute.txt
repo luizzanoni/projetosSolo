@@ -1,0 +1,8 @@
+C:\Users\luizz\Desktop\github\projetosSolo\calculadora\calculadora\bin\Debug\calculadora.exe.config
+C:\Users\luizz\Desktop\github\projetosSolo\calculadora\calculadora\bin\Debug\calculadora.exe
+C:\Users\luizz\Desktop\github\projetosSolo\calculadora\calculadora\bin\Debug\calculadora.pdb
+C:\Users\luizz\Desktop\github\projetosSolo\calculadora\calculadora\obj\Debug\calculadora.csproj.AssemblyReference.cache
+C:\Users\luizz\Desktop\github\projetosSolo\calculadora\calculadora\obj\Debug\calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\luizz\Desktop\github\projetosSolo\calculadora\calculadora\obj\Debug\calculadora.csproj.CoreCompileInputs.cache
+C:\Users\luizz\Desktop\github\projetosSolo\calculadora\calculadora\obj\Debug\calculadora.exe
+C:\Users\luizz\Desktop\github\projetosSolo\calculadora\calculadora\obj\Debug\calculadora.pdb
