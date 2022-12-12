@@ -61,7 +61,7 @@ namespace calculadora
                     break;
             }
 
-            Console.WriteLine("O resultado da operação é: (0)", resultado);
+            Console.WriteLine("O resultado da operação é: {0}", resultado);
 
             Console.ReadLine();
 
